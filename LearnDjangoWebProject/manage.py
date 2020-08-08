@@ -1,4 +1,4 @@
-#!/usr/bin/env python0000000000001111111111
+#!/usr/bin/env
 """
 Command-line utility for administrative tasks.
 
